@@ -1,12 +1,21 @@
 {
 	"newTodo": "",
-	"todos": [{
+	"todos": [
+		{
 			"title": "Start this app",
 			"completed": true
 		},
 		{
 			"title": "Learn OpenUI5",
 			"completed": false
+		},
+		{
+			"title": "Andare a passeggio con il cane",
+			"completed": false
+		},
+		{
+			"title" : "Capire come sopravvivere",
+			"completed" : false
 		}
 	],
 	"itemsRemovable": true,
